@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-nodejs-app
+  memory: 512M
+  instances: 1
+  random-route: true

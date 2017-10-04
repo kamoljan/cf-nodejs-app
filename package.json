@@ -1,0 +1,22 @@
+{
+  "name": "cf-nodejs-app",
+  "version": "1.0.0",
+  "description": "Nodejs demo app for Cloud Foundry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamoljan/cf-nodejs-app.git"
+  },
+  "author": "Kamol Mavlonov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kamoljan/cf-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/kamoljan/cf-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
